@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are [available on my portfolio site](https://aaronmccollum.netlify.app/)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@amccollum.dev)
+- 📝 I regularly write articles on [blog]([https://medium.com/@amccollum.dev](https://kyaaron.github.io/aaron-blog/))
 
 - 💬 Ask me about **Low-code, front-end, or my homemade pancake recipe**
 
